@@ -1,2 +1,2 @@
 # Python
-python知识点总结、面试题目整理
+python知识点总结
